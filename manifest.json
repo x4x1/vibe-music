@@ -1,0 +1,19 @@
+{
+  "name": "Vibe Music",
+  "short_name": "Vibe",
+  "start_url": "/vibe-music/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.youtube.com/vi/4NRXx6U8ABQ/0.jpg",
+      "sizes": "480x360",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/vibe-music/",
+  "description": "YouTube Music-style PWA with background audio, equalizer, and offline support"
+}
